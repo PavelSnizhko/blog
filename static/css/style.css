@@ -1,0 +1,11 @@
+body {
+  padding-top: 56px;
+}
+
+.img-fluid{
+  width: 100%;
+}
+
+.articles-title{
+  color: #212529;
+}
